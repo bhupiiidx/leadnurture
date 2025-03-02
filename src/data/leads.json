@@ -1,0 +1,3302 @@
+[
+    {
+        "id": 1,
+        "name": "Erin Dick",
+        "carType": "2025 Honda Pilot",
+        "emails": [
+            {
+                "subject": "2025 Honda Pilot Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "John Doe",
+        "carType": "2025 Honda Pilot",
+        "emails": [
+            {
+                "subject": "2025 Honda Pilot Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Alice Smith",
+        "carType": "2025 Honda Pilot",
+        "emails": [
+            {
+                "subject": "2025 Honda Pilot Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Robert Johnson",
+        "carType": "2025 Honda Pilot",
+        "emails": [
+            {
+                "subject": "2025 Honda Pilot Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Emily Davis",
+        "carType": "2022 Honda CR-V",
+        "emails": [
+            {
+                "subject": "2022 Honda CR-V Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Michael Brown",
+        "carType": "2022 Honda CR-V",
+        "emails": [
+            {
+                "subject": "2022 Honda CR-V Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Sophia Wilson",
+        "carType": "2022 Honda CR-V",
+        "emails": [
+            {
+                "subject": "2022 Honda CR-V Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "James Miller",
+        "carType": "2022 Honda CR-V",
+        "emails": [
+            {
+                "subject": "2022 Honda CR-V Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Olivia Martinez",
+        "carType": "2024 Honda Accord",
+        "emails": [
+            {
+                "subject": "2024 Honda Accord Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "William Taylor",
+        "carType": "2024 Honda Accord",
+        "emails": [
+            {
+                "subject": "2024 Honda Accord Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Isabella Anderson",
+        "carType": "2024 Honda Accord",
+        "emails": [
+            {
+                "subject": "2024 Honda Accord Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Alexander Thomas",
+        "carType": "2024 Honda Accord",
+        "emails": [
+            {
+                "subject": "2024 Honda Accord Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Mia Hernandez",
+        "carType": "2023 Honda Civic",
+        "emails": [
+            {
+                "subject": "2023 Honda Civic Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Daniel Moore",
+        "carType": "2023 Honda Civic",
+        "emails": [
+            {
+                "subject": "2023 Honda Civic Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Charlotte Jackson",
+        "carType": "2023 Honda Civic",
+        "emails": [
+            {
+                "subject": "2023 Honda Civic Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Ethan White",
+        "carType": "2025 Honda Pilot",
+        "emails": [
+            {
+                "subject": "2025 Honda Pilot Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Ava Harris",
+        "carType": "2025 Honda Pilot",
+        "emails": [
+            {
+                "subject": "2025 Honda Pilot Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            },
+            {
+                "subject": "2025 Honda Pilot Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2025 Honda Pilot offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Logan Clark",
+        "carType": "2022 Honda CR-V",
+        "emails": [
+            {
+                "subject": "2022 Honda CR-V Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Grace Lewis",
+        "carType": "2022 Honda CR-V",
+        "emails": [
+            {
+                "subject": "2022 Honda CR-V Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            },
+            {
+                "subject": "2022 Honda CR-V Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2022 Honda CR-V offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Benjamin Walker",
+        "carType": "2024 Honda Accord",
+        "emails": [
+            {
+                "subject": "2024 Honda Accord Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Amelia Hall",
+        "carType": "2024 Honda Accord",
+        "emails": [
+            {
+                "subject": "2024 Honda Accord Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            },
+            {
+                "subject": "2024 Honda Accord Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2024 Honda Accord offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Lucas Allen",
+        "carType": "2023 Honda Civic",
+        "emails": [
+            {
+                "subject": "2023 Honda Civic Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Harper Young",
+        "carType": "2023 Honda Civic",
+        "emails": [
+            {
+                "subject": "2023 Honda Civic Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Mason King",
+        "carType": "2023 Honda Civic",
+        "emails": [
+            {
+                "subject": "2023 Honda Civic Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Ella Wright",
+        "carType": "2023 Honda Civic",
+        "emails": [
+            {
+                "subject": "2023 Honda Civic Offer - Email #1",
+                "sentDate": "2024-10-01 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #1</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #2",
+                "sentDate": "2024-10-02 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #2</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #3",
+                "sentDate": "2024-10-03 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #3</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #4",
+                "sentDate": "2024-10-04 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #4</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #5",
+                "sentDate": "2024-10-05 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #5</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #6",
+                "sentDate": "2024-10-06 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #6</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #7",
+                "sentDate": "2024-10-07 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #7</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #8",
+                "sentDate": "2024-10-08 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #8</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #9",
+                "sentDate": "2024-10-09 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #9</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #10",
+                "sentDate": "2024-10-10 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #10</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #11",
+                "sentDate": "2024-10-11 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #11</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #12",
+                "sentDate": "2024-10-12 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #12</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #13",
+                "sentDate": "2024-10-13 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #13</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #14",
+                "sentDate": "2024-10-14 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #14</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #15",
+                "sentDate": "2024-10-15 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #15</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #16",
+                "sentDate": "2024-10-16 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #16</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #17",
+                "sentDate": "2024-10-17 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #17</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #18",
+                "sentDate": "2024-10-18 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #18</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #19",
+                "sentDate": "2024-10-19 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #19</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #20",
+                "sentDate": "2024-10-20 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #20</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #21",
+                "sentDate": "2024-10-21 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #21</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #22",
+                "sentDate": "2024-10-22 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #22</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #23",
+                "sentDate": "2024-10-23 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #23</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #24",
+                "sentDate": "2024-10-24 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #24</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            },
+            {
+                "subject": "2023 Honda Civic Offer - Email #25",
+                "sentDate": "2024-10-25 10:00 AM",
+                "content": "<div><h4>Exclusive Deal #25</h4><p>This is the email HTML content for the 2023 Honda Civic offer.</p></div>"
+            }
+        ]
+    }
+]
