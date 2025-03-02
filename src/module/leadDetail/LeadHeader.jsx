@@ -31,7 +31,7 @@ function LeadHeader({ data }) {
                 >
                   <Image
                     style={{ height: "100%", width: "100%" }}
-                    src="/company-icon-01.svg"
+                    src="https://avatar.iran.liara.run/public/10"
                     alt="Company Logo"
                     fluid
                   />
