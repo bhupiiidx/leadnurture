@@ -50,7 +50,7 @@ function TabEmail({ data }) {
       <div>
         {totalEmails > 0 ? (
           <>
-            <Accordion defaultActiveKey="0">
+            <Accordion>
               {currentEmails.map((item, index) => (
                 <EmailItem
                   key={item.id || index}

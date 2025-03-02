@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, Tab, Tabs } from "react-bootstrap";
+import { Card } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 const LeadPipelineStatus = () => {

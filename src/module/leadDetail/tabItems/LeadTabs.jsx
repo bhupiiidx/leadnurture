@@ -3,6 +3,7 @@ import { Card, Tab, Tabs } from "react-bootstrap";
 import TabActivity from "./TabActivity";
 import TabEmails from "./TabEmails";
 import TabCalls from "./TabCalls";
+import TabEmailsScroll from "./TabEmailsScroll";
 
 function LeadTabs({ data }) {
   return (
@@ -26,14 +27,26 @@ function LeadTabs({ data }) {
             <TabActivity />
           </Tab>
           <Tab
-            eventKey="email"
+            eventKey="emailPagination"
             title={
               <>
                 <i className="bi bi-envelope-check-fill me-1"></i> Email
+                (Pagination)
               </>
             }
           >
             <TabEmails data={data} />
+          </Tab>{" "}
+          <Tab
+            eventKey="emailScroll"
+            title={
+              <>
+                <i className="bi bi-envelope-check-fill me-1"></i> Email
+                (Scroll)
+              </>
+            }
+          >
+            <TabEmailsScroll data={data} />
           </Tab>
           <Tab
             eventKey="calls"
